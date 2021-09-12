@@ -10,7 +10,7 @@ import matplotlib.text as mpltext
 import datetime as dt
 import sys
 import math
-sys.path.append('../')
+#sys.path.append('../')
 import cmm_lib as cmm
 
 data_file=sys.argv[1]
