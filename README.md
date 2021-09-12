@@ -8,7 +8,7 @@ Una segunda figura muestra (en la parte superior) una porción de los datos junt
 
 Lee los datos de nivel de marea de un archivo de texto (csv sin encabezado, formato dado), la ruta y nombre del archivo se deben pasar com parámetro.
 
-Ejemplo: python marea_fft.py ../datos/acapulco2013.txt
+Ejemplo: python marea_fft.py datos/acapulco2013.txt
 
 ### Requiere 
 * numpy
